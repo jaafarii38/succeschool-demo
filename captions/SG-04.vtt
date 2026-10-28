@@ -1,0 +1,13 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+La somme S au rang n additionne les termes du rang zéro au rang n : elle contient donc n plus 1 termes.
+
+2
+00:00:10.000 --> 00:00:20.000
+Comparez S et q fois S. En les soustrayant, les termes intermédiaires s’annulent.
+
+3
+00:00:20.000 --> 00:00:30.000
+Si q diffère de 1, on divise par 1 moins q. Si q vaut 1, la somme vaut simplement n plus 1 fois le premier terme.

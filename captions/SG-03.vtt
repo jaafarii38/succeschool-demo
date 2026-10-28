@@ -1,0 +1,13 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+Modifiez le premier terme, la raison et le nombre de termes. Chaque point représente un rang entier.
+
+2
+00:00:10.000 --> 00:00:20.000
+Une raison négative fait alterner les signes si le premier terme est non nul. La croissance de la valeur absolue ne signifie pas la croissance de la suite.
+
+3
+00:00:20.000 --> 00:00:30.000
+Si la valeur absolue de q est strictement inférieure à 1, la limite est zéro. Testez aussi zéro, un et moins un.

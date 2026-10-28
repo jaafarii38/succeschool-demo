@@ -1,0 +1,13 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+La relation de récurrence est u au rang n plus 1 égale q fois u au rang n.
+
+2
+00:00:10.000 --> 00:00:20.000
+Pour une raison non nulle, après n multiplications, u au rang n égale u zéro fois q puissance n.
+
+3
+00:00:20.000 --> 00:00:40.000
+Si le premier terme est au rang 1, l’exposant devient n moins 1. Pour q égal à zéro, le terme initial est conservé et les suivants sont nuls.
